@@ -1,2 +1,2 @@
 # Instructions
-Instructions on how to use priceagent.com API
+Instructions on how to use https://priceagent.com/ API
